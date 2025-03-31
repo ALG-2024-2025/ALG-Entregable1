@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/toy.json
+/PO1-Enunciado.pdf
+/dataset.dat
+/tests-py313
+/tests-py312
+/tests-py311
+/tests-py310
